@@ -1,5 +1,5 @@
 
-nterms = int(input("How many terms? ");
+nterms = int(input("How many terms? "))
 n1, n2 = 0, 1
 count = 0
 if nterms <= 0:
@@ -8,7 +8,7 @@ elif nterms == 1:
    print("Fibonacci sequence upto",nterms,":")
    print(n1)
 else:
-   print("Fibonacci sequence:")
+   print("Fibonacci sequence: by mahesh  likhar")
    while count < nterms:
        print(n1)
        nth = n1 + n2
